@@ -23,7 +23,7 @@ class Stack {
     arr[++top] = x;
   }
 
-  // Remove element from stack
+  // Remove element from stack using the pop function
   public int pop() {
     if (isEmpty()) {
       System.out.println("STACK EMPTY");
