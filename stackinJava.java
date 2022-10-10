@@ -1,4 +1,4 @@
-// Stack implementation in Java
+//An implementation of a stack in Java
 
 class Stack {
   private int arr[];
