@@ -10,7 +10,8 @@ public class CQueue {
     rear = -1;
   }
 
-  // Check if the queue is full
+  // Check if the queue is full 
+  //and validate
   boolean isFull() {
     if (front == 0 && rear == SIZE - 1) {
       return true;
