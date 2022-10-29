@@ -1,11 +1,4 @@
-<!DOCTYPE html>
-  <html>
-  <head>
-  <meta charset="utf-8">
-  <title>JavaScript current day and time</title>
-  </head>
-  <body></body>
-</html>
+
 
 
 
