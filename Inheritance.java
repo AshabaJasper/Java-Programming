@@ -1,7 +1,9 @@
 class Product{
     //attributes
     int p_id;
-    String
+    String name;
+    int price;
+
 
 
 }
