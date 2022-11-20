@@ -1,6 +1,7 @@
 class Product{
     //attributes
     int p_id;
+    String
 
 
 }
