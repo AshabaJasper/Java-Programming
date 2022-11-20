@@ -4,7 +4,13 @@ class Product{
     String name;
     int price;
 
+    //constructor
+    Product(){
+        System.out.println("Product Object Constrcuted");
+    }
 
+    //methods
+    void setProductDetails
 
 }
 
