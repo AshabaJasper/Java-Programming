@@ -1,5 +1,5 @@
 class Product{
-    //attributes
+    //all attributes
     int p_id;
     String name;
     int price;
