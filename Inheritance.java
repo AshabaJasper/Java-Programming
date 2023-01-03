@@ -9,7 +9,7 @@ class Product{
         System.out.println("Product Object Constrcuted");
     }
 
-    //methods
+    //all methods
     void setProductDetails(int p_id, String name, int price){
         //write data in product object
         this.p_id=p_id;
