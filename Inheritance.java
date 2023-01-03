@@ -4,7 +4,7 @@ class Product{
     String name;
     int price;
 
-    //constructor
+    //the constructor
     Product(){
         System.out.println("Product Object Constrcuted");
     }
