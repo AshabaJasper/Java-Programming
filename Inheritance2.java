@@ -22,7 +22,7 @@ class Animal {
 
 // Subclass
 class Dog extends Animal {
-  // Private instance variable
+  // Private instance variable from
   private String breed;
 
   // Constructor
