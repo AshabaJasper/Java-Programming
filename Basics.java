@@ -26,7 +26,8 @@ public class Basics {
     System.out.println("b = " + b);
     System.out.println("c = " + c);
     System.out.println("s = " + s);
-
+    
+    //next
     // Declare a Scanner object to read input from the keyboard
     Scanner input = new Scanner(System.in);
 
