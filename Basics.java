@@ -1,3 +1,5 @@
+//This jazz is going to be deleted
+
 import java.util.Scanner;
 
 public class Basics {
