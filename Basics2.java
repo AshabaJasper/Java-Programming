@@ -2,6 +2,7 @@ public class Basics {
   public static void main(String[] args) {
     // Declare and initialize a constant of type int
     final int MAX = 100;
+//revisit java
 
     // Declare and initialize a two-dimensional array of type int
     int[][] matrix = {{1, 2, 3}, {4, 5, 6}, {7, 8, 9}};
